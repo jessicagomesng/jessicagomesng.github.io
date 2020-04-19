@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "CLI Gem -- First Project! "
-date:       2020-04-19 12:41:35 +0000
+title:      "CLI Gem Project"
+date:       2020-04-19 08:41:36 -0400
 permalink:  cli_gem_--_first_project
 ---
 
